@@ -1,5 +1,7 @@
 package hyperskill;
 
+import hyperskill.ui.CommandInterface;
+
 public class Main {
     public static void main(String[] args) {
         CommandInterface myInterface = new CommandInterface();
