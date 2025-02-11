@@ -1,0 +1,29 @@
+type: edu
+files:
+  - name: src/tracker/Main.java
+    visible: true
+    learner_created: false
+  - name: test/tracker/SampleTest.java
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: src/tracker/CommandInterface.java
+    visible: true
+    learner_created: false
+  - name: src/tracker/Student.java
+    visible: true
+    learner_created: false
+  - name: src/tracker/CredentialsValidator.java
+    visible: true
+    learner_created: false
+  - name: test/tracker/CommandInterfaceTest.java
+    visible: true
+    learner_created: false
+  - name: test/LearningProgressTrackerTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14398#comment
+status: Solved
+record: 2

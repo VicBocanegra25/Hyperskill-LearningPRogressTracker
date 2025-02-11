@@ -1,0 +1,38 @@
+type: edu
+files:
+  - name: test/tracker/SampleTest.java
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: test/LearningProgressTrackerTest.java
+    visible: false
+    learner_created: false
+  - name: src/tracker/CredentialsValidator.java
+    visible: true
+    learner_created: true
+  - name: src/tracker/Course.java
+    visible: true
+    learner_created: true
+  - name: src/tracker/Student.java
+    visible: true
+    learner_created: true
+  - name: src/tracker/CommandInterface.java
+    visible: true
+    learner_created: true
+  - name: src/tracker/Main.java
+    visible: true
+    learner_created: true
+  - name: src/tracker/stage_5.md
+    visible: true
+    learner_created: true
+  - name: src/tracker/NotificationService.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/14399#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 11 Feb 2025 00:26:37 UTC"
+record: 4

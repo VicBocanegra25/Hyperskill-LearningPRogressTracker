@@ -1,14 +1,9 @@
-package hyperskill.core;
+package tracker;
 
-import hyperskill.entity.Student;
-import hyperskill.ui.CommandInterface;
-
-import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class CredentialsValidator {
     private Pattern pattern;
-    private Matcher matcher;
 
     public CredentialsStatus validateCredentials(String credentialsInputByUser) {
         String[] credentialsToEvaluate = splitCredentials(credentialsInputByUser);

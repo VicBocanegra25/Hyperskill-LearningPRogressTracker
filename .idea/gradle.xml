@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../../Gradle/gradle-8.12" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker (Java)/task" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker (Java)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker (Java)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker (Java)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker (Java)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker (Java)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker (Java)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/src" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
