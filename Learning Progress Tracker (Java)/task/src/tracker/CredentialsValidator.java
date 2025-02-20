@@ -1,9 +1,11 @@
 package tracker;
 
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class CredentialsValidator {
     private Pattern pattern;
+    private Matcher matcher;
 
     public CredentialsStatus validateCredentials(String credentialsInputByUser) {
         String[] credentialsToEvaluate = splitCredentials(credentialsInputByUser);
@@ -66,7 +68,7 @@ public class CredentialsValidator {
     }
 
 
-    public enum CredentialsStatus {
+    enum CredentialsStatus {
         INCORRECT_CREDENTIALS,
         INCORRECT_EMAIL,
         DUPLICATED_EMAIL,
